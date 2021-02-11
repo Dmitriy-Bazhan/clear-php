@@ -1,0 +1,1 @@
+<img src="assets/images/Щука.jpg">
